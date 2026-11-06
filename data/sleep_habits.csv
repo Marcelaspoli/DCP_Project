@@ -16,5 +16,5 @@ date,weekday,day_type,dinner_type,dinner_time,caffeine_night,bed_time,wake_time,
 2026-11-02,Mon,University,Healthy,21:30,1.0,01:00,08:00,7.0,3.5,4.0,1.0,0.0
 2026-11-03,Tue,University,Healthy,22:00,0.0,01:30,09:00,7.5,3.5,4.0,1.0,0.0
 2026-11-04,Wed,Free,Fast food,22:00,0.0,02:00,09:30,7.5,4.0,4.0,1.0,1.0
-2026-11-05,Thu,University,,,,,,,,,,
+2026-11-05,Thu,University,Fast food,22:00,0.0,02:00,09:00,7.0,4.0,1.0,1.0,1.0
 2026-11-06,Fri,Work,,,,,,,,,,
