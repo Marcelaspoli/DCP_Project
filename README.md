@@ -76,4 +76,4 @@ My own daily routine.
 
 
 # What I learned
-
+<img width="4978" height="3508" alt="IMG_1581" src="https://github.com/user-attachments/assets/26129de1-fa21-4efb-a446-674d916e9db0" />
