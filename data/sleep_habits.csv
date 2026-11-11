@@ -21,3 +21,4 @@ date,weekday,day_type,dinner_type,dinner_time,caffeine_night,bed_time,wake_time,
 2026-11-07,Sat,Free,Healthy,22:00,0,01:30,09:30,8.0,3.5,5,0,0
 2026-11-08,Sun,Free,Healthy,21:00,0,01:00,09:00,8.0,4.0,4,0,0
 2026-11-09,Mon,University,Healthy,20:00,1,01:30,10:00,8.5,5.5,3,1,1
+2026-11-10,Tue,Free,Healthy,21:30,1,02:00,10:00,8.0,4.5,4,1,0
