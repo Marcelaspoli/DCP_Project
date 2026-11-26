@@ -57,7 +57,9 @@ Each morning I add a new row to the Excel sheet. Dropdowns keep the categories c
 
 # Findings
 
-
+Q1 : The analysis shows that nighttime caffeine consumption is associated with later bedtimes and lower sleep quality. On nights without       caffeine, my average bedtime was approximately 01:14, compared to 02:23 on nights when I consumed caffeine after 18:00. This represents an average delay of 68.8 minutes.
+My average sleep quality also decreased from 3.55 to 3.17 out of 5, representing a reduction of 0.38 points.
+These findings suggest that nighttime caffeine consumption may negatively affect both my bedtime and sleep quality.
 
 # List of files in the project
 
@@ -66,7 +68,8 @@ Each morning I add a new row to the Excel sheet. Dropdowns keep the categories c
 | README.md | Self written |
 | DCP_dataset.xlsx | Self written (spreadsheet with dropdowns and formulas) |
 | data/sleep_habits.csv | Self written (CSV export of the spreadsheet) |
-| main.py | Self written |
+| images/ | Graphs based on data created by mathplotlib |
+| Q1.py | Self written |
 
 # References
 My own daily routine.
@@ -76,4 +79,11 @@ My own daily routine.
 
 
 # What I learned
+
+Through this analysis, I learned how to transform time-based data into numerical values while correctly handling times after midnight. I also developed my understanding of data grouping, aggregation and comparative analysis using Pandas, as well as data visualisation using Matplotlib.
+
+From a personal perspective, I learned that consuming caffeine in the evening is associated with noticeably later bedtimes and slightly poorer sleep quality. This insight could help me make more informed decisions about my caffeine consumption and improve my sleeping habits.
+
+Additionally, I learned the importance of distinguishing correlation from causation and considering other variables before drawing definitive conclusions from data.
+
 <img width="4978" height="3508" alt="IMG_1581" src="https://github.com/user-attachments/assets/26129de1-fa21-4efb-a446-674d916e9db0" />
