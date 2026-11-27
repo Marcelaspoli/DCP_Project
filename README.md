@@ -57,9 +57,11 @@ Each morning I add a new row to the Excel sheet. Dropdowns keep the categories c
 
 # Findings
 
-Q1 : The analysis shows that nighttime caffeine consumption is associated with later bedtimes and lower sleep quality. On nights without       caffeine, my average bedtime was approximately 01:14, compared to 02:23 on nights when I consumed caffeine after 18:00. This represents an average delay of 68.8 minutes.
-My average sleep quality also decreased from 3.55 to 3.17 out of 5, representing a reduction of 0.38 points.
+Q1 : The analysis shows that nighttime caffeine consumption is associated with later bedtimes and lower sleep quality. On nights without       caffeine, my average bedtime was approximately 01:14, compared to 02:23 on nights when I consumed caffeine after 18:00. This represents an average delay of 68.8 minutes. My average sleep quality also decreased from 3.55 to 3.17 out of 5, representing a reduction of 0.38 points.
 These findings suggest that nighttime caffeine consumption may negatively affect both my bedtime and sleep quality.
+
+Q2 : The analysis shows that healthy meals are associated with better sleep quality compared to fast food. My average sleep quality after eating a healthy, home-cooked meal was 3.50 out of 5, compared to 3.11 after eating fast food, representing a difference of 0.39 points.
+Although the difference is relatively small, the results suggest that eating home-cooked meals may contribute to better sleep quality. However, other factors, such as dinner time, caffeine consumption and daily routines, may also influence these results. Therefore, the findings indicate a positive association between healthy meals and sleep quality rather than a direct causal relationship.
 
 # List of files in the project
 
@@ -84,6 +86,6 @@ Through this analysis, I learned how to transform time-based data into numerical
 
 From a personal perspective, I learned that consuming caffeine in the evening is associated with noticeably later bedtimes and slightly poorer sleep quality. This insight could help me make more informed decisions about my caffeine consumption and improve my sleeping habits.
 
-Additionally, I learned the importance of distinguishing correlation from causation and considering other variables before drawing definitive conclusions from data.
+Additionally, I learned the importance of distinguishing correlation from causation and considering other variables before drawing definitive conclusions from data, the importance of cleaning categorical data before performing aggregation and statistical analysis.
 
 <img width="4978" height="3508" alt="IMG_1581" src="https://github.com/user-attachments/assets/26129de1-fa21-4efb-a446-674d916e9db0" />
